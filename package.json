@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-spring-farma",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Spring Farma de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-spring-farma",
+    "voucher-spring-farma",
+    "cupon-spring-farma",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/springfarma.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-spring-farma.git"
+  }
+}
